@@ -1,2 +1,2 @@
 # Swift-App
-App created for iOS using Swift
+App created for iOS using Swift in Xcode
